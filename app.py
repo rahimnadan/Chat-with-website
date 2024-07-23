@@ -32,7 +32,8 @@ def main():
     You can ask questions related to the website content and get accurate responses based on the extracted data.\n
     For example, you might ask questions like ***"What is the main topic of this page?"*** or,\n
     ***"Can you summarize the key points?"***.\n
-    The project repository can be found [on my Github](https://github.com/muhammad-ahsan12/MakTek-internship-Task.git).
+    You Can Contact me [on LinkedIn](https://www.linkedin.com/in/abdur-rahim-718ba4227).
+    If You need my services, Here is [My Upwork](https://www.upwork.com/freelancers/~01b89f620c7324a467)
     """)
     st.sidebar.title('🔗Input your website URL')
     st.sidebar.write('***Ask questions below, and receive answers directly from the website.***')
