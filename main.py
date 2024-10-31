@@ -48,7 +48,7 @@ def main():
     user_question = st.chat_input("Ask a question (query/prompt)")
 
     if user_question and url:
-        os.environ['GOOGLE_API_KEY'] = "AIzaSyA0S7F21ExbBnR06YXkEi7aj94nWP5kJho"  
+        os.environ['GOOGLE_API_KEY'] = "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"  
         
         
         r = requests.get(url)
